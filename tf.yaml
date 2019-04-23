@@ -3,6 +3,7 @@ channels:
     - conda-forge
 dependencies:
     - numpy
+    - imageio
     - matplotlib
     - scikit-learn
     - pandas

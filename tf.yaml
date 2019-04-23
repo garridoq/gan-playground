@@ -1,0 +1,13 @@
+name: tf
+channels:
+    - conda-forge
+dependencies:
+    - numpy
+    - matplotlib
+    - scikit-learn
+    - pandas
+    - pillow
+    - jupyter
+    - opencv
+    - pip:
+        - tensorflow-gpu==2.0.0-alpha0

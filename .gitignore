@@ -1,3 +1,5 @@
+.*.sw?
 image*.png
 ckpt*
+checkpoint
 .ipynb_checkpoints/*
